@@ -9,19 +9,19 @@ public class App {
     public static void drawHat() {
         System.out.println("          /\"\\");
         System.out.println("         /\"_\"\\");
-        System.out.println("        /\"_\"_\"\\   ");
+        System.out.println("        /\"_\"_\"\\");
         System.out.println("       /\"_\"_\"_\"\\");
-        System.out.println("      /\"_\"_\"_\"_\"\\ ");
-        System.out.println("     /\"_\"_\"_\"_\"_\"\\ ");
+        System.out.println("      /\"_\"_\"_\"_\"\\");
+        System.out.println("     /\"_\"_\"_\"_\"_\"\\");
         System.out.println("      |||||||||||  ");
     }
 
     public static void drawFace() {
-        System.out.println("     |  ~      ~  | ");
+        System.out.println("     |  ~      ~  |  ");
         System.out.println("    @|   O /\\  O  |@");
-        System.out.println("     |   /----    | ");
-        System.out.println("     |____________| ");
-        System.out.println("          | |       ");
+        System.out.println("     |   /----    |  ");
+        System.out.println("     |____________|  ");
+        System.out.println("          | |        ");
     }
 
     public static void drawBody() {
